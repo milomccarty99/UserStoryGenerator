@@ -1,0 +1,6 @@
+4
+
+Goal
+make hello world
+Use randomization to fix the wall I am encountering.
+not play as many video games
